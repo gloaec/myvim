@@ -1,0 +1,1 @@
+/home/ghis/.vim/vimrc
